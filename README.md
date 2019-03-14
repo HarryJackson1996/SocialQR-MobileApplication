@@ -1,4 +1,4 @@
-# SocialQR-MobileApplication
+# SocialQR- Mobile Application
 
 Native Android mobile application created during year 3 of my University career;
 it combines the connectivity of social media and technology of QR codes. 
