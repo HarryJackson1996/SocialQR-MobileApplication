@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SocialQRApp</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="slogan">Create - Scan - Connect </string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="names">
+        <item>Menu</item>
+        <item>Settings</item>
+        <item>Logout</item>
+        <item>About</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>Select an Item or enter Manually</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.snapchat.com/add/</item>
+        <item>https://twitter.com/</item>
+        <item>https://www.pinterest.co.uk/</item>
+        <item>https://www.youtube.com/user/</item>
+        <item>https://www.twitch.tv/</item>
+        <item>https://USERNAME.tumblr.com/</item>
+        <item>Phone-Number</item>
+        <item>https://ENTER-PERSONAL-SITE</item>
+    </string-array>
+
+
+</resources>
